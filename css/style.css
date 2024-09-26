@@ -2,22 +2,29 @@ body
 {
     padding-left: 20px;
     color:white;
-    background-image:url("Images/cinema.jpg") ;
+    background-image:url("/Images/cinema.jpg") ;
     background-size:100%;
+    font-family: "Times New Roman";
 }
 
-h2
+.réalisateurs
 {
     color: yellowgreen;
     font-size: 25px;
-    list-style :none
+    list-style :none    
 }
 
-ol {
+.films 
+{
     list-style-type: upper-alpha;
+    color: white;
+    font-size:15px;
 }
-ul {
+.acteurs 
+{
     list-style-type: disc;
+    color: white;
+    font-size: 15px;
 }
 
 
