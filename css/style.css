@@ -2,7 +2,7 @@ body
 {
     padding-left: 20px;
     color:white;
-    background-image:url("/Images/cinema.jpg") ;
+    background-image:url("Images/cinema.jpg") ;
     background-size:100%;
 }
 
